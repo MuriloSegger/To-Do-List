@@ -20,9 +20,3 @@ https://github.com/MuriloSegger/To-Do-List/assets/140568760/cf3d6b01-5a8a-4e17-a
   <ul>
     <li>https://youtu.be/MxP4jZQY0h4</li>
   </ul>
-
-<style>
-  a{
-    text-decoration:none;
-  }
-</style>
